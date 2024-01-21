@@ -1,4 +1,4 @@
-# Authentication Token Storage in README
+# Authentication with HTTP-only cookie
 
 When handling authentication tokens, choosing between an HTTP-only cookie and localStorage involves considering security implications. Here's why using an HTTP-only cookie is generally considered more secure:
 
