@@ -1,0 +1,24 @@
+.container .logo {
+	font-size: 2rem;
+	font-weight: 800;
+}
+
+nav .nav-link.active-link {
+	color: #b815a7;
+}
+nav .navbar-toggler .navbar-toggler-icon {
+	background-image: url("burger-menu-right-svgrepo-com.svg");
+}
+nav button.navbar-toggler {
+	border: none;
+	outline: none;
+}
+nav button.navbar-toggler:focus {
+	box-shadow: none;
+}
+nav .dropdown .dropdown-toggle::after {
+	display: none;
+}
+.avatar {
+	cursor: pointer;
+}
